@@ -59,7 +59,13 @@ print(accuracy_score(Y_test, Y_pred))
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![1](https://user-images.githubusercontent.com/93427186/163980558-d314be17-862a-4619-a553-5cf2a4b03c16.png)
+![2](https://user-images.githubusercontent.com/93427186/163980595-d3382c9c-08c9-42f7-ac6b-c3dfd91676f2.png)
+![3](https://user-images.githubusercontent.com/93427186/163980627-c2b0cdd4-2f19-48f7-acd5-690fccacdab5.png)
+![4](https://user-images.githubusercontent.com/93427186/163980656-17a08933-ecd0-4e4c-9910-22d9f8b67179.png)
+![5](https://user-images.githubusercontent.com/93427186/163980679-514af009-a4b7-4437-83a9-e9b2fdd0c7c0.png)
+![6](https://user-images.githubusercontent.com/93427186/163980721-b01edc1f-6f75-483e-b153-0e59b76408f5.png)
+![Screenshot 2022-04-19 153251](https://user-images.githubusercontent.com/93427186/163980746-a068b9a0-7413-4ab2-8f6f-02e005188534.png)
 
 
 ## Result:
